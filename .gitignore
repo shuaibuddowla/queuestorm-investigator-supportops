@@ -25,3 +25,12 @@ evaluation_report_*.json
 scratch/
 test_groq.py
 search_pdf_structure.py
+
+# Hackathon source materials (PDFs and sample JSON)
+SUST_Hackathon_Preli_Problem_Statement.pdf
+SUST_Preli_Evaluation_Rubric_With_Explanations.pdf
+SUST_Preli_Sample_Cases.json
+SUST_Preli_Team_Instructions_Manual.pdf
+
+# Local Puku database
+.puku/
