@@ -107,9 +107,10 @@ To prevent critical safety penalties, we implemented active guardrails:
 - A valid `GROQ_API_KEY` set in your environment variables.
 
 ### Local Installation
-1. Navigate to the project directory:
+1. Clone the repository and navigate to the project directory:
    ```bash
-   cd D:\hackathon
+   git clone https://github.com/shuaibuddowla/queuestorm-investigator-supportops.git
+   cd queuestorm-investigator-supportops
    ```
 2. Install dependencies:
    ```bash
