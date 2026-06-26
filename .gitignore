@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local Environment & Output files
+.env
+evaluation_report.json
+evaluation_report_*.json
+scratch/
+test_groq.py
+search_pdf_structure.py
